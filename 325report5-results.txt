@@ -1,0 +1,115 @@
+SP2-0734: unknown command beginning "colmun add..." - rest of line ignored.
+
+Tue Dec 10                                                                                                                                                                                     page    1
+                                                                                       WordsWorth Employee Roster
+
+Employe Last               First                                                                  Hourly                                                                                                
+Role    Name               Name               ADDRESS                                                Pay                                                                                                
+------- ------------------ ------------------ -------------------------------------------------- -------                                                                                                
+Manager Vasquez            Sage               345 Maplewood Drive                                 $25.50                                                                                                
+                                                                                                                                                                                                        
+Cashier Patel              Remi               1234 Oak Street                                     $15.50                                                                                                
+                                                                                                                                                                                                        
+Manager Lee                Kala               789 Elm Avenue                                      $26.50                                                                                                
+                                                                                                                                                                                                        
+Barista Rodriguez          Caspian            2345 Park Place                                     $19.50                                                                                                
+                                                                                                                                                                                                        
+Social  Kim                Lyra               1111 Main Street                                    $16.50                                                                                                
+Media                                                                                                                                                                                                   
+Leader                                                                                                                                                                                                  
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Book    Chen               Wren               9012 Broadway Boulevard                             $15.50                                                                                                
+Reviewe                                                                                                                                                                                                 
+r                                                                                                                                                                                                       
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Booksor Khan               Indigo             3456 Pineview Drive                                 $18.50                                                                                                
+ter                                                                                                                                                                                                     
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Janitor Martin             Piper              2234 Willowbrook Road                               $18.00                                                                                                
+                                                                                                                                                                                                        
+Promote Tran               Marlowe            6789 Sunset Avenue                                  $16.50                                                                                                
+r                                                                                                                                                                                                       
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Researc Wong               Vesper             1112 Elmwood Street                                 $18.50                                                                                                
+her                                                                                                                                                                                                     
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Barista Hall               Rowan              3451 Lakeview Drive                                 $16.50                                                                                                
+Manager                                                                                                                                                                                                 
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Owner   Singh              Clio               7890 Valley View Road                               $50.00                                                                                                
+                                                                                                                                                                                                        
+Fiender Nyugen             Zephyr             2345 Hillside Avenue                                $69.00                                                                                                
+                                                                                                                                                                                                        
+Barista Garcia             Magnolia           1234 Cedarwood Lane                                 $16.50                                                                                                
+-Cashie                                                                                                                                                                                                 
+r                                                                                                                                                                                                       
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Assista Jackson            Orion              5678 Cedar Lane                                     $19.50                                                                                                
+nt                                                                                                                                                                                                      
+Manager                                                                                                                                                                                                 
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+
+Tue Dec 10                                                                                                                                                                                     page    1
+                                                                                       WordsWorth Employee Roster
+
+Employe Last               First                                                                  Hourly                                                                                                
+Role    Name               Name               ADDRESS                                                Pay                                                                                                
+------- ------------------ ------------------ -------------------------------------------------- -------                                                                                                
+Manager Vasquez            Sage               345 Maplewood Drive                                 $25.50                                                                                                
+                                                                                                                                                                                                        
+Cashier Patel              Remi               1234 Oak Street                                     $15.50                                                                                                
+                                                                                                                                                                                                        
+Manager Lee                Kala               789 Elm Avenue                                      $26.50                                                                                                
+                                                                                                                                                                                                        
+Barista Rodriguez          Caspian            2345 Park Place                                     $19.50                                                                                                
+                                                                                                                                                                                                        
+Social  Kim                Lyra               1111 Main Street                                    $16.50                                                                                                
+Media                                                                                                                                                                                                   
+Leader                                                                                                                                                                                                  
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Book    Chen               Wren               9012 Broadway Boulevard                             $15.50                                                                                                
+Reviewe                                                                                                                                                                                                 
+r                                                                                                                                                                                                       
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Booksor Khan               Indigo             3456 Pineview Drive                                 $18.50                                                                                                
+ter                                                                                                                                                                                                     
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Janitor Martin             Piper              2234 Willowbrook Road                               $18.00                                                                                                
+                                                                                                                                                                                                        
+Promote Tran               Marlowe            6789 Sunset Avenue                                  $16.50                                                                                                
+r                                                                                                                                                                                                       
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Researc Wong               Vesper             1112 Elmwood Street                                 $18.50                                                                                                
+her                                                                                                                                                                                                     
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Barista Hall               Rowan              3451 Lakeview Drive                                 $16.50                                                                                                
+Manager                                                                                                                                                                                                 
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Owner   Singh              Clio               7890 Valley View Road                               $50.00                                                                                                
+                                                                                                                                                                                                        
+Fiender Nyugen             Zephyr             2345 Hillside Avenue                                $69.00                                                                                                
+                                                                                                                                                                                                        
+Barista Garcia             Magnolia           1234 Cedarwood Lane                                 $16.50                                                                                                
+-Cashie                                                                                                                                                                                                 
+r                                                                                                                                                                                                       
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+Assista Jackson            Orion              5678 Cedar Lane                                     $19.50                                                                                                
+nt                                                                                                                                                                                                      
+Manager                                                                                                                                                                                                 
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        

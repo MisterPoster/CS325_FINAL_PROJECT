@@ -1,0 +1,481 @@
+=== Member Data + Phone Numbers ===
+
+MEMBER_ID            MEM_LNAME                MEM_FNAME                CONTACT_EMAIL                                      JOIN_DATE TOTAL_PURCHASE_VOLUME                                               
+-------------------- ------------------------ ------------------------ -------------------------------------------------- --------- ---------------------                                               
+pateQsRq8Vfj7mWcHnX  Patel                    Sofia                    spatel@hmail.com                                   22-MAR-95                 65.56                                               
+leef3y6rGDu8WYD7JP8u Lee                      Ethan                    ethanlee@hmail.com                                 14-OCT-88                 20.07                                               
+leliaF8enGjWLSEemsYd Rodriguez                Lelia                    rodrodlelia@inlook.com                             27-AUG-00                 787.1                                               
+kimTL6CZmSsN5TFdeS4V Kim                      Julian                   juliankimmy@tuta.com                               31-JAN-97                 62.93                                               
+jacksonjPveGB9MVG5Cd Jackson                  Ava                      avavajackson@tahoo.com                             18-NOV-99                    16                                               
+patelwYDXHfCWfrYVh3n Patel                    Caleb                    patelcaleb4@tutmail.com                            10-APR-92                  59.8                                               
+garcianrEu7YMzgNA2LC Garcia                   Maya                     garciamayan@hmail.com                              25-JUN-83                 64.07                                               
+chenLhUqUVFQxQmGtgKP Chen                     Lucas                    chenchenchen@tahoo.com                             02-SEP-01                389.45                                               
+khanF9GVMZrwzp9Lz8eg Khan                     Ruby                     rhanmasterruby@inlook.com                          12-FEB-94                 80.03                                               
+martinGyzPfzVUDbgyAG Martin                   Jaxon                    jaxmartin@inlook.com                               17-DEC-96                 64.07                                               
+tran6YYWcNPk6bp8sVaa Tran                     Lila                     lilietran@tuta.com                                 15-MAY-90                 42.66                                               
+wongxtA4xbdfbxLWkBQj Wong                     Kai                      wongkaiwong@tahoo.com                              08-JUL-85                 191.7                                               
+singhw7kfLnFKKXWy5pU Singh                    Atticus                  attsingh@inlook.com                                04-MAR-91                  5.18                                               
+nguyena2U9sHUwM2625L Nguyen                   Zara                     zaranguy@tuta.com                                  06-JAN-98                 95.58                                               
+hallBGfwNqc5Tqg5TqMm Hall                     Piper                    hallthepiper@inlook.com                            29-OCT-03                 339.7                                               
+
+MEMBER_ID            CONTACT_PH                                                                                                                                                                         
+-------------------- ----------                                                                                                                                                                         
+chenLhUqUVFQxQmGtgKP 6177890123                                                                                                                                                                         
+garcianrEu7YMzgNA2LC 3034561234                                                                                                                                                                         
+garcianrEu7YMzgNA2LC 4041112222                                                                                                                                                                         
+hallBGfwNqc5Tqg5TqMm 2125678902                                                                                                                                                                         
+hallBGfwNqc5Tqg5TqMm 3034567890                                                                                                                                                                         
+jacksonjPveGB9MVG5Cd 4159012345                                                                                                                                                                         
+khanF9GVMZrwzp9Lz8eg 4155559012                                                                                                                                                                         
+kimTL6CZmSsN5TFdeS4V 6173456789                                                                                                                                                                         
+leef3y6rGDu8WYD7JP8u 3128765432                                                                                                                                                                         
+leliaF8enGjWLSEemsYd 2021112222                                                                                                                                                                         
+leliaF8enGjWLSEemsYd 2067890123                                                                                                                                                                         
+martinGyzPfzVUDbgyAG 2063456789                                                                                                                                                                         
+nguyena2U9sHUwM2625L 2067890124                                                                                                                                                                         
+nguyena2U9sHUwM2625L 3128765433                                                                                                                                                                         
+pateQsRq8Vfj7mWcHnX  4155551234                                                                                                                                                                         
+patelwYDXHfCWfrYVh3n 2125678901                                                                                                                                                                         
+singhw7kfLnFKKXWy5pU 4159012346                                                                                                                                                                         
+singhw7kfLnFKKXWy5pU 6173456788                                                                                                                                                                         
+tran6YYWcNPk6bp8sVaa 3128765431                                                                                                                                                                         
+wongxtA4xbdfbxLWkBQj 2021113333                                                                                                                                                                         
+=== Employee + Job Title ===
+
+JOB_TI TITLE                  PAY_HOUR MAX_HOUR_ASSIGNABLE I                                                                                                                                            
+------ -------------------- ---------- ------------------- -                                                                                                                                            
+000001 Manager                    25.5                  30 N                                                                                                                                            
+000002 Cashier                    15.5                  20 Y                                                                                                                                            
+000003 Manager                    26.5                  30 N                                                                                                                                            
+000004 Barista                    19.5                21.5 N                                                                                                                                            
+000005 Social Media Leader        16.5                  20 Y                                                                                                                                            
+000006 Book Reviewer              15.5                  20 Y                                                                                                                                            
+000007 Booksorter                 18.5                  25 N                                                                                                                                            
+000008 Janitor                      18                  25 N                                                                                                                                            
+000009 Promoter                   16.5                  19 Y                                                                                                                                            
+000010 Researcher                 18.5                  20 Y                                                                                                                                            
+000011 Barista Manager            16.5                  21 Y                                                                                                                                            
+000012 Owner                        50               99.99 N                                                                                                                                            
+000013 Fiender                      69                  69 Y                                                                                                                                            
+000014 Barista-Cashier            16.5                  20 Y                                                                                                                                            
+000015 Assistant Manager          19.5                  25 N                                                                                                                                            
+
+EMPLOYEE_I EMPL_LNAME               EMPL_FNAME               ADDRESS                                            CONTACT_EMAIL                                      CONTACT_PH SSN       HIREDATE  JOB_TI
+---------- ------------------------ ------------------------ -------------------------------------------------- -------------------------------------------------- ---------- --------- --------- ------
+1608040201 Vasquez                  Sage                     345 Maplewood Drive                                sagev@wordsworth.net                               696969696  453350277 11-SEP-93 000001
+1618141211 Patel                    Remi                     1234 Oak Street                                    remip@wordsworth.net                               5420420420 562917486 24-JUL-04 000002
+1628242221 Lee                      Kala                     789 Elm Avenue                                     kalal@wordsworth.net                               1203459876 754977223 28-FEB-89 000003
+1638343231 Rodriguez                Caspian                  2345 Park Place                                    caspianr@wordsworth.net                            6666666999 869027879 05-FEB-89 000004
+1648444241 Kim                      Lyra                     1111 Main Street                                   lyrak@wordsworth.net                               123098567  414715209 21-OCT-98 000005
+1658545251 Jackson                  Orion                    5678 Cedar Lane                                    orionj@wordsworth.net                              555444333  774808921 17-APR-02 000015
+1668646261 Chen                     Wren                     9012 Broadway Boulevard                            wrenc@wordsworth.net                               7776662222 413939878 03-DEC-87 000006
+1678747271 Khan                     Indigo                   3456 Pineview Drive                                indigok@wordsworth.net                             2021113335 471526525 22-MAY-95 000007
+1688848281 Martin                   Piper                    2234 Willowbrook Road                              piperm@wordsworth.net                              3128765442 242048330 15-NOV-06 000008
+1698949291 Tran                     Marlowe                  6789 Sunset Avenue                                 marlowet@wordsworth.net                            2063456786 242048330 31-AUG-84 000009
+1709050301 Wong                     Vesper                   1112 Elmwood Street                                vesperw@wordsworth.net                             555555555  121173097 19-JAN-92 000010
+1719151311 Hall                     Rowan                    3451 Lakeview Drive                                rowanh@wordsworth.net                              666666666  886812007 13-MAR-05 000011
+1729252321 Singh                    Clio                     7890 Valley View Road                              clios@wordsworth.net                               123455247  547588711 25-SEP-86 000012
+1739353331 Nyugen                   Zephyr                   2345 Hillside Avenue                               zephyrn@wordsworth.net                             123546981  845230079 01-JUN-08 000013
+1749454341 Garcia                   Magnolia                 1234 Cedarwood Lane                                magnoliag@wordsworth.net                           123456789  722331639 02-APR-85 000014
+=== Transaction ===
+
+TRANSACTION_ID       EMPLOYEE_I MEMBER_ID            PURCHASE_ TOTAL_VOLUME I                                                                                                                           
+-------------------- ---------- -------------------- --------- ------------ -                                                                                                                           
+M0000000000000000003 1628242221 pateQsRq8Vfj7mWcHnX  25-OCT-23          412 N                                                                                                                           
+M0000000000000000004 1638343231 leef3y6rGDu8WYD7JP8u 15-OCT-23          555 Y                                                                                                                           
+M0000000000000000005 1648444241 leliaF8enGjWLSEemsYd 15-JAN-23          666 N                                                                                                                           
+M0000000000000000006 1658545251 kimTL6CZmSsN5TFdeS4V 15-FEB-23          123 Y                                                                                                                           
+M0000000000000000008 1668646261 kimTL6CZmSsN5TFdeS4V 15-JAN-12          300 N                                                                                                                           
+M0000000000000000009 1678747271 jacksonjPveGB9MVG5Cd 15-MAY-23          212 Y                                                                                                                           
+M0000000000000000010 1688848281 patelwYDXHfCWfrYVh3n 15-JUN-23          212 Y                                                                                                                           
+M0000000000000000011 1698949291 garcianrEu7YMzgNA2LC 15-DEC-23       420.69 Y                                                                                                                           
+M0000000000000000012 1709050301 chenLhUqUVFQxQmGtgKP 23-DEC-23          147 Y                                                                                                                           
+M0000000000000000013 1729252321 khanF9GVMZrwzp9Lz8eg 15-JAN-22          100 Y                                                                                                                           
+M0000000000000000014 1739353331 martinGyzPfzVUDbgyAG 25-JAN-24          200 N                                                                                                                           
+M0000000000000000015 1749454341 hallBGfwNqc5Tqg5TqMm 17-NOV-21          550 Y                                                                                                                           
+=== Event + Membership ===
+
+EVENT_ID   EVENT_NAME                                         EVENT_DAT EVENT_TYPE               EVENT EVENT                                                                                            
+---------- -------------------------------------------------- --------- ------------------------ ----- -----                                                                                            
+EVg86s95w9 Knitting Lesson                                    01-DEC-24 Arts + Crafts            18:00 19:00                                                                                            
+EVaa9dphh1 Comedy Night                                       13-DEC-24 Concert                  17:00 19:00                                                                                            
+EVgx5iixx9 Jazz Ensemble                                      27-OCT-24 Concert                  20:00 23:00                                                                                            
+EVdkwv0av2 The Frog Prince                                    17-JAN-25 Story Time               14:00 15:00                                                                                            
+EV7k9cncax Dr Seuss Read-along                                13-MAR-25 Story Time               14:00 15:30                                                                                            
+EVahvp2b45 Origami                                            02-JUL-24 Arts + Crafts            11:00 11:45                                                                                            
+EVkot9kpis Moonlight Sonata                                   27-DEC-24 Concert                  18:00 18:30                                                                                            
+EVfjus7xuc The Planets by Holst                               13-JAN-25 Concert                  20:00 21:00                                                                                            
+EVuw2nxqvq Charlottes Web                                     06-DEC-24 Story Time               14:00 16:00                                                                                            
+EVgpyqz9cq Bob Ross paint-along                               18-APR-25 Arts + Crafts            19:00 22:00                                                                                            
+EViki4jq7n Creative Writing Workshop                          27-FEB-24 Arts + Crafts            14:00 15:00                                                                                            
+EV9jl4gk26 Yacht Rock Night                                   12-AUG-23 Concert                  19:00 22:00                                                                                            
+EVbl02xtv9 21st century literature                            12-JUN-23 Lecture                  14:00 16:00                                                                                            
+EV875obqme Local Artist Showcase                              28-JAN-24 Concert                  18:00 22:00                                                                                            
+EVopaflo7r Lego building competition                          26-MAY-24 Arts + Crafts            12:00 15:00                                                                                            
+
+MEMBER_ID            EVENT_ID                                                                                                                                                                           
+-------------------- ----------                                                                                                                                                                         
+garcianrEu7YMzgNA2LC EV875obqme                                                                                                                                                                         
+garcianrEu7YMzgNA2LC EV9jl4gk26                                                                                                                                                                         
+garcianrEu7YMzgNA2LC EVbl02xtv9                                                                                                                                                                         
+hallBGfwNqc5Tqg5TqMm EVahvp2b45                                                                                                                                                                         
+hallBGfwNqc5Tqg5TqMm EVkot9kpis                                                                                                                                                                         
+leef3y6rGDu8WYD7JP8u EVgx5iixx9                                                                                                                                                                         
+leliaF8enGjWLSEemsYd EVopaflo7r                                                                                                                                                                         
+martinGyzPfzVUDbgyAG EVgpyqz9cq                                                                                                                                                                         
+martinGyzPfzVUDbgyAG EViki4jq7n                                                                                                                                                                         
+martinGyzPfzVUDbgyAG EVuw2nxqvq                                                                                                                                                                         
+nguyena2U9sHUwM2625L EV7k9cncax                                                                                                                                                                         
+nguyena2U9sHUwM2625L EVdkwv0av2                                                                                                                                                                         
+pateQsRq8Vfj7mWcHnX  EVaa9dphh1                                                                                                                                                                         
+pateQsRq8Vfj7mWcHnX  EVg86s95w9                                                                                                                                                                         
+wongxtA4xbdfbxLWkBQj EVfjus7xuc                                                                                                                                                                         
+=== Drink + Orders ===
+
+DRINK_ DRINK_NAME           DRINK_TYPE           D DRINK_PRICE EMPLOYEE_I                                                                                                                               
+------ -------------------- -------------------- - ----------- ----------                                                                                                                               
+D00001 Americano            Coffee               M        2.99 1628242221                                                                                                                               
+D00002 Cappuccino           Coffee               M        3.49 1628242221                                                                                                                               
+D00003 Latte                Coffee               L        4.29 1638343231                                                                                                                               
+D00004 Mocha                Coffee               M        4.59 1658545251                                                                                                                               
+D00005 Flat White           Coffee               L        3.79 1658545251                                                                                                                               
+D00006 Espresso             Coffee               S        2.49 1668646261                                                                                                                               
+D00007 Macchiato            Coffee               S        2.99 1668646261                                                                                                                               
+D00008 Iced Coffee          Coffee               L        3.99 1678747271                                                                                                                               
+D00009 Chai Latte           Tea                  M        3.79 1698949291                                                                                                                               
+D00010 Green Tea            Tea                  S        2.49 1698949291                                                                                                                               
+D00011 Herbal Tea           Tea                  S        2.29 1719151311                                                                                                                               
+D00012 Iced Tea             Tea                  L        2.99 1719151311                                                                                                                               
+D00013 Hot Chocolate        Other                M        3.29 1719151311                                                                                                                               
+D00014 Affogato             Coffee               S        3.99 1749454341                                                                                                                               
+D00015 Matcha Latte         Tea                  M        4.19 1749454341                                                                                                                               
+  from Members_orders_drink
+       *
+ERROR at line 2:
+ORA-00942: table or view does not exist 
+
+
+=== Booth + Rentals ===
+
+ROOM_ID    REN                                                                                                                                                                                          
+---------- ---                                                                                                                                                                                          
+PRB1ndi2m7 001                                                                                                                                                                                          
+PRBsm48dm2 002                                                                                                                                                                                          
+PRBm983s32 003                                                                                                                                                                                          
+PRBbn398dm 004                                                                                                                                                                                          
+PRB1md93n3 005                                                                                                                                                                                          
+PRB6t7nm8k 006                                                                                                                                                                                          
+PRBtyer9i3 007                                                                                                                                                                                          
+PRBms936ne 008                                                                                                                                                                                          
+PRB01n4idh 009                                                                                                                                                                                          
+PRBlsn8nrt 010                                                                                                                                                                                          
+PRBs94nws9 011                                                                                                                                                                                          
+PRBms9765b 012                                                                                                                                                                                          
+PRBn9yet73 013                                                                                                                                                                                          
+PRBhu8ism5 014                                                                                                                                                                                          
+PRBhs9wg57 015                                                                                                                                                                                          
+
+RENTAL_ID            ROOM_ID    MEMBER_ID            RENTA RENTA                                                                                                                                        
+-------------------- ---------- -------------------- ----- -----                                                                                                                                        
+BRbd5ozb74i024hgk21s PRB1ndi2m7 chenLhUqUVFQxQmGtgKP 14:00 16:00                                                                                                                                        
+BRx2nff25b5vjqqadvca PRB1ndi2m7 chenLhUqUVFQxQmGtgKP 12:00 14:00                                                                                                                                        
+BRx5ubamiqc8w0ywqci0 PRB1ndi2m7 singhw7kfLnFKKXWy5pU 09:00 11:00                                                                                                                                        
+BRfo9v696zs2p7z9bohm PRBsm48dm2 nguyena2U9sHUwM2625L 13:00 15:00                                                                                                                                        
+BRa5blcn388lqxmk2dx3 PRBsm48dm2 khanF9GVMZrwzp9Lz8eg 15:00 17:00                                                                                                                                        
+BRub3tpo6eekcctqu70m PRBsm48dm2 khanF9GVMZrwzp9Lz8eg 08:00 10:00                                                                                                                                        
+BRoycfbtx1vppmbd36l4 PRBhs9wg57 garcianrEu7YMzgNA2LC 12:00 13:00                                                                                                                                        
+BRmj250imls4w3a8ldev PRBhs9wg57 chenLhUqUVFQxQmGtgKP 14:00 16:00                                                                                                                                        
+BRm9aq04fvbjydnc1v5c PRB1md93n3 khanF9GVMZrwzp9Lz8eg 08:00 09:30                                                                                                                                        
+BRqdkwfj462nmbnre87g PRB1md93n3 khanF9GVMZrwzp9Lz8eg 11:00 14:00                                                                                                                                        
+BR1e09xfx3fdithm1mmb PRBtyer9i3 leef3y6rGDu8WYD7JP8u 10:00 11:00                                                                                                                                        
+BR0zub4os9o54897fdbd PRBtyer9i3 leef3y6rGDu8WYD7JP8u 12:00 14:00                                                                                                                                        
+BRp8l29uo82lqdogic83 PRBtyer9i3 martinGyzPfzVUDbgyAG 15:00 16:30                                                                                                                                        
+BRr70bsnnoyqkx5a1syx PRBn9yet73 hallBGfwNqc5Tqg5TqMm 10:00 12:00                                                                                                                                        
+BRmdh5qq2qtkv8kt8p6f PRBn9yet73 hallBGfwNqc5Tqg5TqMm 14:00 16:00                                                                                                                                        
+=== Book + Author Data ===
+
+IBSN          BOOK_NAME                                                                                           BOOK_SALES_DAT BOOK_PRICE BOOK_LENGTH        QTY BOOK_TYPE                            
+------------- --------------------------------------------------------------------------------------------------- -------------- ---------- ----------- ---------- ----------                           
+9780618918249 The God Delusion                                                                                            341.82      18.99         464         59 Nonfiction                           
+9781538742150 The January 6 Report : Findings                                                                             239.88      19.99         608          3 Nonfiction                           
+9781645021629 Scanned                                                                                                      53.85      17.95         208          1 Nonfiction                           
+9780300249910 The Battle for Syria                                                                                           575         25         432          1 Nonfiction                           
+9781523085941 The Hidden History                                                                                            79.8      19.95         192          0 Nonfiction                           
+9780691224473 Spin Dictators                                                                                                43.9      21.95         368          5 Nonfiction                           
+9781793623935 A Tapestry of African Histories                                                                                695        139         390          2 Nonfiction                           
+9780062316110 Sapiens                                                                                                      77.97      25.99         464          3 Nonfiction                           
+9780393867121 Sid Meiers Memoir!                                                                                           223.6      27.95         304          5 Nonfiction                           
+2940180531483 The Fourth Political Theory                                                                                  539.1      29.95         212          8 Nonfiction                           
+9780394751887 Favorite Folktales                                                                                             230         23         512          6 Nonfiction                           
+9780062397348 A Peoples History of the United States                                                                      206.91      22.99         784          4 Nonfiction                           
+9780807055397 Dangerous Ideas: A Brief History                                                                              71.8      17.95         320         13 Nonfiction                           
+9780995833944 Go.AI                                                                                                          100         20         320          2 Nonfiction                           
+9780593238318 AI 2041: Ten Visions                                                                                           160         20         496          4 Nonfiction                           
+9780451452733 2001 : A Space Odyssey                                                                                          80         20         256         11 Fiction                              
+9780345413970 2010 : Odyssey Two                                                                                             133         19         320          5 Fiction                              
+9780345358790 2061 : Odyssey Three                                                                                         39.96       9.99         288          3 Fiction                              
+9780345423498 3001 : The Final Odyssey                                                                                     17.98       8.99         288          1 Fiction                              
+9780141394343 120 Days of Sodom                                                                                              114         19         464          6 Fiction                              
+9781421565989 Battle Royale : Remastered                                                                                      18     305.82         656          4 Fiction                              
+9781779501127 Watchmen                                                                                                     74.97      24.99         448          4 Fiction                              
+9781612199078 The Immortals of Tehran                                                                                      35.98      17.99         400          5 Fiction                              
+9781400030651 A Fine Balance                                                                                                 464         19         624          6 Fiction                              
+9781779511195 V for Vendetta                                                                                              274.89      24.99         296         20 Fiction                              
+9780393318685 Filth                                                                                                        18.99      18.99         416          4 Fiction                              
+9780312429218 2666                                                                                                            87         29         912         16 Fiction                              
+9781250781222 Stand on Zanzibar                                                                                           399.84      24.99         576         12 Fiction                              
+9780292777736 Children of the Waters                                                                                       119.7      19.95         132          4 Fiction                              
+9781555975500 How to Escape from a Leper Colony                                                                               51         17         240         14 Fiction                              
+9780593847046 The Philosophy Book                                                                                         239.88      19.99         360          5 Reference                            
+9780071837286 Electronics from the Gound Up                                                                                  282         47         544          3 Reference                            
+9781465480521 Essential World Atlas                                                                                          128         16         256          1 Reference                            
+9781510778511 CIA World Factbook                                                                                          324.87      24.99        1216          5 Reference                            
+9781510750463 CIA World Factbook                                                                                          135.92      16.99        1176          3 Reference                            
+9780262033848 Introduction to Algorithms                                                                                     128        128        1313          2 Reference                            
+9780262046305 Introduction to Algorithms                                                                                     256        128        1312          6 Reference                            
+9781138826243 Critical Thinking : The Basics                                                                               95.13      10.57         252          4 Reference                            
+9781032162997 Critical Thinking : The Basics                                                                              123.86     123.86         286          9 Reference                            
+9780321780652 Vector Calculus                                                                                             594.57     198.19         624          1 Reference                            
+9783031387463 Introduction to Statistical Learning                                                                        101.75     101.75         426          5 Reference                            
+9780470671603 Ethical Theory                                                                                                67.8       33.9         816          4 Reference                            
+9781133187790 Introduction to the Theory of Computation                                                                   521.58      86.93         504          4 Reference                            
+9780536297167 International Studies : An Interdisciplinary Approach                                                       167.04      13.98         512         12 Reference                            
+9781478637547 The Elusive Eden                                                                                            459.41      65.63         555          4 Reference                            
+
+IBSN          BOOK_AUTHOR                                                                                                                                                                               
+------------- --------------------------------------------------                                                                                                                                        
+2940180531483 Alexander Dugin                                                                                                                                                                           
+9780062316110 Yuval Noah Harari                                                                                                                                                                         
+9780062397348 Howard Zinn                                                                                                                                                                               
+9780071837286 Ronald Quan                                                                                                                                                                               
+9780141394343 Marquis de Sade                                                                                                                                                                           
+9780262033848 Charles Leiserson                                                                                                                                                                         
+9780262033848 Clifford Stein                                                                                                                                                                            
+9780262033848 Ronald Rivest                                                                                                                                                                             
+9780262033848 Thomas Cormen                                                                                                                                                                             
+9780262046305 Charles Leiserson                                                                                                                                                                         
+9780262046305 Clifford Stein                                                                                                                                                                            
+9780262046305 Ronald Rivest                                                                                                                                                                             
+9780262046305 Thomas Cormen                                                                                                                                                                             
+9780292777736 Ibithal Salem                                                                                                                                                                             
+9780300249910 Christopher Philips                                                                                                                                                                       
+9780312429218 Roberto Balano                                                                                                                                                                            
+9780321780652 Susan Colley                                                                                                                                                                              
+9780345358790 Arthur C. Clarke                                                                                                                                                                          
+9780345413970 Arthur C. Clarke                                                                                                                                                                          
+9780345423498 Arthur C. Clarke                                                                                                                                                                          
+9780393318685 Irine Welsh                                                                                                                                                                               
+9780393867121 Sid Meier                                                                                                                                                                                 
+9780394751887 Jane Yolen                                                                                                                                                                                
+9780451452733 Arthur C. Clarke                                                                                                                                                                          
+9780470671603 Russ Shafer-Landau                                                                                                                                                                        
+9780536297167 Sheldon Anderson                                                                                                                                                                          
+9780593238318 Chen Qiufan                                                                                                                                                                               
+9780593238318 Kai Fu Lee                                                                                                                                                                                
+9780593847046 DK                                                                                                                                                                                        
+9780618918249 Richard Dawkins                                                                                                                                                                           
+9780691224473 Daniel Treisman                                                                                                                                                                           
+9780691224473 Sergei Guriev                                                                                                                                                                             
+9780807055397 Eric Berkowitz                                                                                                                                                                            
+9780995833944 Abishur Prakash                                                                                                                                                                           
+9781032162997 Stuart Hanscomb                                                                                                                                                                           
+9781133187790 Michael Sipser                                                                                                                                                                            
+9781138826243 Stuart Hanscomb                                                                                                                                                                           
+9781250781222 Bruce Sterling                                                                                                                                                                            
+9781250781222 John Brunner                                                                                                                                                                              
+9781400030651 Rohinton Mistry                                                                                                                                                                           
+9781421565989 Konshun Takami                                                                                                                                                                            
+9781465480521 DK                                                                                                                                                                                        
+9781478637547 Richard Rice                                                                                                                                                                              
+9781510750463 Central Intelligence Agency                                                                                                                                                               
+9781510778511 Central Intelligence Agency                                                                                                                                                               
+9781523085941 Thom Hartmann                                                                                                                                                                             
+9781538742150 Adam Schiff                                                                                                                                                                               
+9781538742150 Bennie Thompson                                                                                                                                                                           
+9781538742150 Liz Cheney                                                                                                                                                                                
+9781555975500 Tiphanie Yanique                                                                                                                                                                          
+9781612199078 Ali Araghi                                                                                                                                                                                
+9781645021629 Nick Corbishley                                                                                                                                                                           
+9781779501127 Alan Moore                                                                                                                                                                                
+9781779501127 Dave Gibbons                                                                                                                                                                              
+9781779511195 Alan Moore                                                                                                                                                                                
+9781779511195 David Lloyd                                                                                                                                                                               
+9781793623935 Githuku City University                                                                                                                                                                   
+9781793623935 Nicholas K                                                                                                                                                                                
+9783031387463 Gareth James                                                                                                                                                                              
+
+IBSN          SUBJECT                                            RE NUM                                                                                                                                 
+------------- -------------------------------------------------- -- ---                                                                                                                                 
+9780618918249 Evolutionary Biology/Atheism                       09 000                                                                                                                                 
+9781538742150 Political History                                  10 000                                                                                                                                 
+9781645021629 Current Events/Public Health                       07 000                                                                                                                                 
+9780300249910 Current Events/Geopolitics                         10 000                                                                                                                                 
+9781523085941 History/SCOTUS                                     10 000                                                                                                                                 
+9780691224473 Current Events/Authoritarianism                    09 000                                                                                                                                 
+9781793623935 Geopolitics/Africa                                 09 000                                                                                                                                 
+9780062316110 Anthropology/Human Evolution                       11 000                                                                                                                                 
+9780393867121 Autobiology/Video Games                            05 000                                                                                                                                 
+2940180531483 Political Philosophy                               13 000                                                                                                                                 
+9780394751887 World Mythology                                    08 000                                                                                                                                 
+9780062397348 US History/Labor Rights                            07 000                                                                                                                                 
+9780807055397 Free Speech/World History                          05 000                                                                                                                                 
+9780995833944 Geopolitics/Artificial Intelligence                09 000                                                                                                                                 
+9780593238318 Future History/Artificial Intelligence             07 000                                                                                                                                 
+
+IBSN          GENRE                REGION               COUNTRY              NUM                                                                                                                        
+------------- -------------------- -------------------- -------------------- ---                                                                                                                        
+9780451452733 Science Fiction      American             United States        001                                                                                                                        
+9780345413970 Science Fiction      American             United States        002                                                                                                                        
+9780345358790 Science Fiction      American             United States        003                                                                                                                        
+9780345423498 Science Fiction      American             United States        003                                                                                                                        
+9780141394343 Erotica              Western Europe       France               000                                                                                                                        
+9781421565989 Dystopian Fiction    East Asia            Japan                000                                                                                                                        
+9781779501127 Alternate History    American             United States        000                                                                                                                        
+9781612199078 Epic Fiction         Middle East          Iran                 000                                                                                                                        
+9781400030651 Historical Fiction   South Asia           India                000                                                                                                                        
+9781779511195 Dystopian Fiction    American             United States        000                                                                                                                        
+9780393318685 Crime Fiction        European             United Kingdom       000                                                                                                                        
+9780312429218 Epic Fiction         American             Mexico               000                                                                                                                        
+9781250781222 Science Fiction      American             United States        000                                                                                                                        
+9780292777736 Anthology            Middle East          Egypt                000                                                                                                                        
+9781555975500 Anthology            Caribbean            US Virgin Islands    000                                                                                                                        
+
+IBSN          FICTION_TYPE                                                                                                                                                                              
+------------- -------------------------                                                                                                                                                                 
+9780141394343 Novel                                                                                                                                                                                     
+9780292777736 Novel                                                                                                                                                                                     
+9780312429218 Novel                                                                                                                                                                                     
+9780345358790 Novel                                                                                                                                                                                     
+9780345413970 Novel                                                                                                                                                                                     
+9780345423498 Novel                                                                                                                                                                                     
+9780393318685 Novel                                                                                                                                                                                     
+9780451452733 Novel                                                                                                                                                                                     
+9781250781222 Novel                                                                                                                                                                                     
+9781400030651 Novel                                                                                                                                                                                     
+9781421565989 Novel                                                                                                                                                                                     
+9781555975500 Anthology                                                                                                                                                                                 
+9781612199078 Novel                                                                                                                                                                                     
+9781779501127 Graphic Novel                                                                                                                                                                             
+9781779511195 Graphic Novel                                                                                                                                                                             
+
+IBSN          SUBJECT                                  EDIT FORMAT               READ                                                                                                                   
+------------- ---------------------------------------- ---- -------------------- ----                                                                                                                   
+9780593847046 Philosophy                               2023 Hardcover            GENE                                                                                                                   
+9780071837286 Electronics                              2014 Paperback            Gene                                                                                                                   
+9781465480521 Geography                                2019 Paperback            Gene                                                                                                                   
+9781510778511 International Relations                  2024 Hardcover            UnGd                                                                                                                   
+9781510750463 International Relations                  2019 Hardcover            UnGd                                                                                                                   
+9780262033848 Computer Science                         2009 Textbook             UnGd                                                                                                                   
+9780262046305 Computer Science                         2022 Textbook             UnGd                                                                                                                   
+9781138826243 Critical Thinking                        2016 Paperback            UnGd                                                                                                                   
+9781032162997 Critical Thinking                        2023 Hardcover            UnGd                                                                                                                   
+9780321780652 Calculus                                 2011 Hardcover            PreR                                                                                                                   
+9783031387463 Python                                   2013 Hardcover            UnGd                                                                                                                   
+9780470671603 Ethics                                   2012 Paperback            Grad                                                                                                                   
+9781133187790 Computer Science                         2012 Hardcover            Grad                                                                                                                   
+9780536297167 International Relations                  2017 Paperwork            UnGd                                                                                                                   
+9781478637547 Californian History                      2019 Hardcover            UnGd                                                                                                                   
+=== Game Data ===
+
+GAME_ID      TITLE                                                 PRICE PUBLISHER                FORMAT                                           GENRE                    PLAYERS_MAX    AGE_MIN      
+------------ ------------------------------------------------ ---------- ------------------------ ------------------------------------------------ ------------------------ ----------- ----------      
+       QTY                                                                                                                                                                                              
+----------                                                                                                                                                                                              
+10204081632  Sid Meiers Civilization V                             29.99 2K                       (VG) PC Disc + Manual                            Strategy                          16         12      
+         2                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10214182642  Manhunt                                               21.22 Rockstar Games           (VG) PS2 Disc + Manual                           Action                             1         12      
+         2                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10224283652  Operation                                                30 Hasbro                   Board Game                                       Hand-eye Coordination              2         10      
+         1                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10234384662  Mastermind                                            10.99 Hasbro                   Board Game                                       Logical                            2         10      
+         7                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10244485672  Axis and Allies : Europe 1940                         99.99 Avalon Hill              Board Game                                       Wargaming                          6         12      
+         8                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10254586682  Axis and Allies : Pacific 1940                        79.99 Avalon Hill              Board Game                                       Wargaming                          4         12      
+         6                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10264687692  Grand Theft Auto III                                   6.99 Rockstar Games           (VG) PS2 Disc + Manual                           Action-adventure                   1         12      
+         3                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10274788702  Superhot VR Edition                                   14.99 Superhot Team            (VG) Meta Quest Download Code                    Shooter                            1         12      
+         1                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10284889712  Bully Scholarship Edition                             12.99 Rockstar Games           (VG) Xbox 360 Disc + Manual                      Adventure                          1         10      
+         2                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10294990722  Bicycle Playing Cards Steampunk Design                19.99 Bicycle                  Playing Cards                                    Cards                              6         10      
+        12                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10305091732  LEGO Creator Set - 500 Pieces                         39.99 LEGO                     Building Blocks                                  Creativity                         6         10      
+         4                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10315192742  Diplomacy                                             29.99 Wizards of the Coast     Board Game                                       Wargaming                          8         12      
+        14                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10325293752  The Settlers of Catan                                 14.99 Kosmos                   Board Game                                       Strategy                           4         12      
+        18                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10335394762  Jet Set Radio                                         17.99 SEGA                     (VG) Dreamcast Disc + Manual                     Action                             1         12      
+         2                                                                                                                                                                                              
+                                                                                                                                                                                                        
+10345495772  Brain Age                                             20.99 Nintendo                 (VG) Nintendo DS Cartridge + Manual              Education                          1         10      
+         4                                                                                                                                                                                              
+                                                                                                                                                                                                        
+=== Music Product Data ===
+
+MUSIC_PRODUCT_ID     TITLE                                                   PRICE RELEASE_D FORMAT                   GENRE                    LENGTH          QTY                                      
+-------------------- -------------------------------------------------- ---------- --------- ------------------------ ------------------------ -------- ----------                                      
+1020304050607080910  Back to Black (Deluxe Edition)                          33.05 30-OCT-06 CD                       Rhythm and Blues         01:00:32          6                                      
+1020304050607082021  Happy Together                                          46.77 06-JUN-67 Vinyl                    Surf Rock                00:34:41          2                                      
+1020304050607083132  Get Rich or Die Tryin                                    9.02 04-FEB-03 CD                       Gangsta Rap              01:19:00          8                                      
+1020304050607084243  PACIFIC                                                 55.88 24-JUL-13 CD                       City Pop                 00:38:33          4                                      
+1020304050607085354  My Dear Melancholy,                                     10.03 30-MAR-18 Digital Code             Pop                      00:25:34          6                                      
+1020304050607086465  H20                                                     16.01 04-OCT-82 Cassette                 New Wave                 00:46:25         14                                      
+1020304050607087576  Paranoid (Remaster)                                     20.05 18-SEP-70 Vinyl                    Heavy Metal              00:41:45          1                                      
+1020304050607088687  Ghost in The Machine                                    40.05 02-OCT-81 CD                       New Wave                 00:53:17         12                                      
+1020304050607089798  Moving Shadow 02.1                                      24.42 28-JAN-02 CD                       Drum and Bass            00:55:41         19                                      
+1020304050607090909  The Marshall Mathers LP                                   6.8 22-MAY-00 CD                       Hip-hop                  01:12:01          3                                      
+1020304050607092020  Utd. State 90                                           59.66 04-DEC-89 Cassette                 House                    01:00:50         11                                      
+1020304050607093131  A Funk Odyssey                                          35.45 08-AUG-01 CD                       Acid Jazz                00:47:36          2                                      
+1020304050607094242  There But for the Grace of God Go I                      67.7 01-JAN-80 Vinyl                    Disco                    01:11:01          6                                      
+1020304050607095353  Cry: The Very Best Of                                     2.2 31-DEC-13 Digital Download         Classic Rock             01:15:56          1                                      
+1020304050607096464  Night in the Woods Volume I                             99.99 21-FEB-17 Vinyl                    Soundtrack               03:11:53          2                                      
+1020304050607097575  Night in the Woods Volume II                            99.99 21-FEB-17 Vinyl                    Soundtrack               02:38:21          1                                      
+1020304050607098686  Favourite Worst Nightmare                               70.45 18-APR-07 CD                       Alternative Rock         00:37:16          3                                      
+1020304050607099797  Marvins Marvelous Mechanical Musuem                      50.1 24-OCT-05 CD                       Independent Pop          00:52:42          7                                      
+1020304050607100908  The Blue Danube                                          30.5 01-JAN-82 Vinyl                    Classical                00:49:41          3                                      
+1020304050607102019  Mer De Noms                                             17.05 01-JAN-00 CD                       Gothic                   00:44:27          1                                      
+
+MUSIC_PRODUCT_ID     ARTIST                                                                                                                                                                             
+-------------------- --------------------------------------------------                                                                                                                                 
+1020304050607080910  Amy Winehouse                                                                                                                                                                      
+1020304050607082021  The Turtles                                                                                                                                                                        
+1020304050607083132  50 Cent                                                                                                                                                                            
+1020304050607084243  Haruomi Hosono                                                                                                                                                                     
+1020304050607084243  Shigeru Suzuki                                                                                                                                                                     
+1020304050607084243  Tatsuro Yamashita                                                                                                                                                                  
+1020304050607085354  The Weeknd                                                                                                                                                                         
+1020304050607086465  Daryl Hall                                                                                                                                                                         
+1020304050607086465  John Oates                                                                                                                                                                         
+1020304050607087576  Black Sabbath                                                                                                                                                                      
+1020304050607088687  The Police                                                                                                                                                                         
+1020304050607089798  Dom and Roland                                                                                                                                                                     
+1020304050607089798  Exile                                                                                                                                                                              
+1020304050607089798  Timecode                                                                                                                                                                           
+1020304050607090909  Eminem                                                                                                                                                                             
+1020304050607092020  808 State                                                                                                                                                                          
+1020304050607093131  Jamiroquai                                                                                                                                                                         
+1020304050607094242  Machine                                                                                                                                                                            
+1020304050607095353  Kevin Godley                                                                                                                                                                       
+1020304050607095353  Lol Creme                                                                                                                                                                          
+1020304050607096464  Alec Holowka                                                                                                                                                                       
+1020304050607097575  Alec Holowka                                                                                                                                                                       
+1020304050607098686  Arctic Monkeys                                                                                                                                                                     
+1020304050607099797  Tally Hall                                                                                                                                                                         
+1020304050607100908  Berliner Philharmoniker                                                                                                                                                            
+1020304050607102019  A Perfect Circle                                                                                                                                                                   

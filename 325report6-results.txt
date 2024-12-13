@@ -1,0 +1,103 @@
+SP2-0735: unknown COLUMN option beginning ""Book|Pric..."
+SP2-0734: unknown command beginning "on book_na..." - rest of line ignored.
+
+Tue Dec 10                                                                                                                                                                                     page    1
+                                                                                     WordsWorth Stock Price Summary
+
+Book         Book                                                                                                                                                                                       
+Category     Title                    Stock BOOK_PRICE                                                                                                                                                  
+------------ ------------------------ ----- ----------                                                                                                                                                  
+Nonfiction   The God Delusion            59      18.99                                                                                                                                                  
+             The January 6 Report :       3      19.99                                                                                                                                                  
+             Findings                                                                                                                                                                                   
+                                                                                                                                                                                                        
+             Scanned                      1      17.95                                                                                                                                                  
+             The Battle for Syria         1         25                                                                                                                                                  
+             The Hidden History           0      19.95                                                                                                                                                  
+             Spin Dictators               5      21.95                                                                                                                                                  
+             A Tapestry of African        2        139                                                                                                                                                  
+             Histories                                                                                                                                                                                  
+                                                                                                                                                                                                        
+             Sapiens                      3      25.99                                                                                                                                                  
+             Sid Meiers Memoir!           5      27.95                                                                                                                                                  
+             The Fourth Political         8      29.95                                                                                                                                                  
+             Theory                                                                                                                                                                                     
+                                                                                                                                                                                                        
+             Favorite Folktales           6         23                                                                                                                                                  
+             A Peoples History of the     4      22.99                                                                                                                                                  
+             United States                                                                                                                                                                              
+                                                                                                                                                                                                        
+             Dangerous Ideas: A Brief    13      17.95                                                                                                                                                  
+             History                                                                                                                                                                                    
+                                                                                                                                                                                                        
+             Go.AI                        2         20                                                                                                                                                  
+             AI 2041: Ten Visions         4         20                                                                                                                                                  
+************                                ----------                                                                                                                                                  
+avg                                             30.044                                                                                                                                                  
+count                                               15                                                                                                                                                  
+minimum                                          17.95                                                                                                                                                  
+maximum                                            139                                                                                                                                                  
+                                                                                                                                                                                                        
+Fiction      2001 : A Space Odyssey      11         20                                                                                                                                                  
+             2010 : Odyssey Two           5         19                                                                                                                                                  
+             2061 : Odyssey Three         3       9.99                                                                                                                                                  
+             3001 : The Final Odyssey     1       8.99                                                                                                                                                  
+             120 Days of Sodom            6         19                                                                                                                                                  
+             Battle Royale :              4     305.82                                                                                                                                                  
+             Remastered                                                                                                                                                                                 
+                                                                                                                                                                                                        
+             Watchmen                     4      24.99                                                                                                                                                  
+             The Immortals of Tehran      5      17.99                                                                                                                                                  
+             A Fine Balance               6         19                                                                                                                                                  
+             V for Vendetta              20      24.99                                                                                                                                                  
+             Filth                        4      18.99                                                                                                                                                  
+             2666                        16         29                                                                                                                                                  
+             Stand on Zanzibar           12      24.99                                                                                                                                                  
+             Children of the Waters       4      19.95                                                                                                                                                  
+             How to Escape from a        14         17                                                                                                                                                  
+             Leper Colony                                                                                                                                                                               
+                                                                                                                                                                                                        
+************                                ----------                                                                                                                                                  
+avg                                         38.6466667                                                                                                                                                  
+count                                               15                                                                                                                                                  
+minimum                                           8.99                                                                                                                                                  
+maximum                                         305.82                                                                                                                                                  
+                                                                                                                                                                                                        
+Reference    The Philosophy Book          5      19.99                                                                                                                                                  
+             Electronics from the         3         47                                                                                                                                                  
+             Gound Up                                                                                                                                                                                   
+                                                                                                                                                                                                        
+             Essential World Atlas        1         16                                                                                                                                                  
+             CIA World Factbook           5      24.99                                                                                                                                                  
+             CIA World Factbook           3      16.99                                                                                                                                                  
+             Introduction to              2        128                                                                                                                                                  
+             Algorithms                                                                                                                                                                                 
+                                                                                                                                                                                                        
+             Introduction to              6        128                                                                                                                                                  
+             Algorithms                                                                                                                                                                                 
+                                                                                                                                                                                                        
+             Critical Thinking : The      4      10.57                                                                                                                                                  
+             Basics                                                                                                                                                                                     
+                                                                                                                                                                                                        
+             Critical Thinking : The      9     123.86                                                                                                                                                  
+             Basics                                                                                                                                                                                     
+                                                                                                                                                                                                        
+             Vector Calculus              1     198.19                                                                                                                                                  
+             Introduction to              5     101.75                                                                                                                                                  
+             Statistical Learning                                                                                                                                                                       
+                                                                                                                                                                                                        
+             Ethical Theory               4       33.9                                                                                                                                                  
+             Introduction to the          4      86.93                                                                                                                                                  
+             Theory of Computation                                                                                                                                                                      
+                                                                                                                                                                                                        
+             International Studies :     12      13.98                                                                                                                                                  
+             An Interdisciplinary                                                                                                                                                                       
+             Approach                                                                                                                                                                                   
+                                                                                                                                                                                                        
+             The Elusive Eden             4      65.63                                                                                                                                                  
+************                                ----------                                                                                                                                                  
+avg                                         67.7186667                                                                                                                                                  
+count                                               15                                                                                                                                                  
+minimum                                          10.57                                                                                                                                                  
+maximum                                         198.19                                                                                                                                                  
+                                                                                                                                                                                                        

@@ -1,0 +1,20 @@
+Tue Dec 10                                                                                                                                                                                     page    1
+                                                                             Total Sales of Fictional Books by World Region
+
+World Region                                                     Total Sales                                                                                                                            
+---------------------------------------------------------------- -----------------------------------------                                                                                              
+American........                                                 $1107.64                                                                                                                               
+South Asia......                                                 $464                                                                                                                                   
+Middle East.....                                                 $155.68                                                                                                                                
+Western Europe..                                                 $114                                                                                                                                   
+Caribbean.......                                                 $51                                                                                                                                    
+European........                                                 $18.99                                                                                                                                 
+East Asia.......                                                 $18                                                                                                                                    
+
+
+
+
+
+
+
+                                                                               Report of Above-Average Priced Video Games

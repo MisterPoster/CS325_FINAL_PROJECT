@@ -1,0 +1,87 @@
+﻿Samuel Sparenga, Ashton Bruce, Jeremy Shueh
+CS 325 - Fall 2024
+December 10, 2024
+
+
+Member (MEMBER_ID, mem_lname, mem_fname, contact_email, join_date, total_purchase_volume)
+
+
+Member_Contact_Phone (MEMBER_ID, CONTACT_PHONE)
+foreign key (MEMBER_ID) references Member (MEMBER_ID)
+
+
+Job_Title (JOB_TITLE_CODE, title, pay_hour, max_hours_assignable, is_part-time)
+
+
+Employee (EMPLOYEE_ID, empl_lname, empl_fname, address, contact_email, contact_phone, ssn, hiredate, job_title_code)
+foreign key (job_title_code) references Job_Title
+
+
+Transaction (TRANSACTION_ID, employee_id, member_id, purchase_date, total_volume, is_returnable)
+foreign key (employee_id) references Employee
+foreign key (member_id) references Member
+
+
+Transaction_Payment (TRANSACTION_ID, PAYMENT_TYPE, amt_paid)
+foreign key (TRANSACTION_ID) references Transaction
+
+
+Event (EVENT_ID, event_name, event_date, event_type, event_start, event_end)
+
+
+Member_attends_Event (MEMBER_ID, EVENT_ID)
+foreign key (MEMBER_ID) references Member,
+foreign key (EVENT_ID) references Event
+
+
+Drink (DRINK_NUM, drink_name, drink_type, drink_size, drink_price, employee_id)
+foreign key (employee_id) references employee
+
+
+Member_orders_drink (MEMBER_ID, DRINK_NUM)
+foreign key (MEMBER_ID) references Member,
+foreign key (DRINK_NUM) references Drink
+
+
+Private_rental_booth (ROOM_ID, rental_booth_num) 
+
+
+Booth_rental (RENTAL_ID, room_id, member_id, rental_start_time, rental_end_time)
+foreign key (member_id) references Member
+
+
+Book (IBSN, Book_name, Book_sales_dat, book_price, book_length, qty, book_type)
+
+
+Book_authors (IBSN, BOOK_AUTHOR)
+foreign key (IBSN) references Book
+
+
+Book_fiction (IBSN, genre, region, country, number_in_series)
+foreign key (IBSN) references Book
+
+
+Book_fiction_type (IBSN, FICTION_TYPE)
+foreign key (IBSN) references Book
+
+
+Book_nonfiction (IBSN, subject, reading_level, number_in_series)
+foreign key (IBSN) references Book
+
+
+Book_nonfiction_topic (IBSN, NONFICTION_TOPIC)
+foreign key (IBSN) references Book
+
+
+Book_reference (IBSN, subject, edition, format, level)
+foreign key (IBSN) references Book
+
+
+Game (GAME_ID, title, price, publisher, format, genre, players_max, age_min, qty)
+
+
+Music_product (MUSIC_PRODUCT_ID, title, price, release_date, format, genre, length, qty)
+
+
+Music_product_artist (MUSIC_PRODUCT_ID, ARTIST)
+foreign key (MUSIC_PRODUCT_ID) references Music_product

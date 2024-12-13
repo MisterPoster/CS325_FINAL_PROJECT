@@ -1,0 +1,352 @@
+=== 1 - Sales of fiction texts by region ===
+
+REGION               SUM(BOOK_SALES_DAT)                                                                                                                                                                
+-------------------- -------------------                                                                                                                                                                
+East Asia                             18                                                                                                                                                                
+European                           18.99                                                                                                                                                                
+Caribbean                             51                                                                                                                                                                
+Western Europe                       114                                                                                                                                                                
+Middle East                       155.68                                                                                                                                                                
+South Asia                           464                                                                                                                                                                
+American                         1107.64                                                                                                                                                                
+=== 2 - Video games with an above-than-average cost ===
+
+GAME_ID      TITLE                                            GENRE                                                                                                                                     
+------------ ------------------------------------------------ ------------------------                                                                                                                  
+10204081632  Sid Meiers Civilization V                        Strategy                                                                                                                                  
+10214182642  Manhunt                                          Action                                                                                                                                    
+10335394762  Jet Set Radio                                    Action                                                                                                                                    
+10345495772  Brain Age                                        Education                                                                                                                                 
+=== 3 - Books ranked by count of authors ===
+
+BOOK_NAME                                                                                           COUNT(BOOK_AUTHOR)                                                                                  
+--------------------------------------------------------------------------------------------------- ------------------                                                                                  
+Introduction to Algorithms                                                                                           8                                                                                  
+The January 6 Report : Findings                                                                                      3                                                                                  
+A Tapestry of African Histories                                                                                      2                                                                                  
+Watchmen                                                                                                             2                                                                                  
+Stand on Zanzibar                                                                                                    2                                                                                  
+Critical Thinking : The Basics                                                                                       2                                                                                  
+CIA World Factbook                                                                                                   2                                                                                  
+Spin Dictators                                                                                                       2                                                                                  
+AI 2041: Ten Visions                                                                                                 2                                                                                  
+V for Vendetta                                                                                                       2                                                                                  
+The Battle for Syria                                                                                                 1                                                                                  
+Favorite Folktales                                                                                                   1                                                                                  
+2001 : A Space Odyssey                                                                                               1                                                                                  
+International Studies : An Interdisciplinary Approach                                                                1                                                                                  
+Dangerous Ideas: A Brief History                                                                                     1                                                                                  
+A Peoples History of the United States                                                                               1                                                                                  
+Electronics from the Gound Up                                                                                        1                                                                                  
+2061 : Odyssey Three                                                                                                 1                                                                                  
+2010 : Odyssey Two                                                                                                   1                                                                                  
+Filth                                                                                                                1                                                                                  
+Go.AI                                                                                                                1                                                                                  
+A Fine Balance                                                                                                       1                                                                                  
+The Elusive Eden                                                                                                     1                                                                                  
+Children of the Waters                                                                                               1                                                                                  
+Ethical Theory                                                                                                       1                                                                                  
+Introduction to the Theory of Computation                                                                            1                                                                                  
+3001 : The Final Odyssey                                                                                             1                                                                                  
+Sid Meiers Memoir!                                                                                                   1                                                                                  
+Battle Royale : Remastered                                                                                           1                                                                                  
+Vector Calculus                                                                                                      1                                                                                  
+The Hidden History                                                                                                   1                                                                                  
+120 Days of Sodom                                                                                                    1                                                                                  
+Sapiens                                                                                                              1                                                                                  
+The Immortals of Tehran                                                                                              1                                                                                  
+The God Delusion                                                                                                     1                                                                                  
+2666                                                                                                                 1                                                                                  
+Introduction to Statistical Learning                                                                                 1                                                                                  
+How to Escape from a Leper Colony                                                                                    1                                                                                  
+Essential World Atlas                                                                                                1                                                                                  
+Scanned                                                                                                              1                                                                                  
+The Fourth Political Theory                                                                                          1                                                                                  
+The Philosophy Book                                                                                                  1                                                                                  
+=== 4 - Average cost of nonfiction books by reading level ===
+
+RE AVG(BOOK_PRICE)                                                                                                                                                                                      
+-- ---------------                                                                                                                                                                                      
+09          49.985                                                                                                                                                                                      
+13           29.95                                                                                                                                                                                      
+11           25.99                                                                                                                                                                                      
+08              23                                                                                                                                                                                      
+05           22.95                                                                                                                                                                                      
+10      21.6466667                                                                                                                                                                                      
+07      20.3133333                                                                                                                                                                                      
+=== 5 - Sum of books sales data by author ===
+
+BOOK_AUTHOR                                        SUM(BOOK_SALES_DAT)                                                                                                                                  
+-------------------------------------------------- -------------------                                                                                                                                  
+Githuku City University                                            695                                                                                                                                  
+Nicholas K                                                         695                                                                                                                                  
+Susan Colley                                                    594.57                                                                                                                                  
+Christopher Philips                                                575                                                                                                                                  
+Alexander Dugin                                                  539.1                                                                                                                                  
+Michael Sipser                                                  521.58                                                                                                                                  
+Rohinton Mistry                                                    464                                                                                                                                  
+Central Intelligence Agency                                     460.79                                                                                                                                  
+Richard Rice                                                    459.41                                                                                                                                  
+John Brunner                                                    399.84                                                                                                                                  
+Bruce Sterling                                                  399.84                                                                                                                                  
+Thomas Cormen                                                      384                                                                                                                                  
+Ronald Rivest                                                      384                                                                                                                                  
+Charles Leiserson                                                  384                                                                                                                                  
+Clifford Stein                                                     384                                                                                                                                  
+DK                                                              367.88                                                                                                                                  
+Alan Moore                                                      349.86                                                                                                                                  
+Richard Dawkins                                                 341.82                                                                                                                                  
+Ronald Quan                                                        282                                                                                                                                  
+David Lloyd                                                     274.89                                                                                                                                  
+Arthur C. Clarke                                                270.94                                                                                                                                  
+Adam Schiff                                                     239.88                                                                                                                                  
+Bennie Thompson                                                 239.88                                                                                                                                  
+Liz Cheney                                                      239.88                                                                                                                                  
+Jane Yolen                                                         230                                                                                                                                  
+Sid Meier                                                        223.6                                                                                                                                  
+Stuart Hanscomb                                                 218.99                                                                                                                                  
+Howard Zinn                                                     206.91                                                                                                                                  
+Sheldon Anderson                                                167.04                                                                                                                                  
+Kai Fu Lee                                                         160                                                                                                                                  
+Chen Qiufan                                                        160                                                                                                                                  
+Ibithal Salem                                                    119.7                                                                                                                                  
+Marquis de Sade                                                    114                                                                                                                                  
+Gareth James                                                    101.75                                                                                                                                  
+Abishur Prakash                                                    100                                                                                                                                  
+Roberto Balano                                                      87                                                                                                                                  
+Thom Hartmann                                                     79.8                                                                                                                                  
+Yuval Noah Harari                                                77.97                                                                                                                                  
+Dave Gibbons                                                     74.97                                                                                                                                  
+Eric Berkowitz                                                    71.8                                                                                                                                  
+Russ Shafer-Landau                                                67.8                                                                                                                                  
+Nick Corbishley                                                  53.85                                                                                                                                  
+Tiphanie Yanique                                                    51                                                                                                                                  
+Sergei Guriev                                                     43.9                                                                                                                                  
+Daniel Treisman                                                   43.9                                                                                                                                  
+Ali Araghi                                                       35.98                                                                                                                                  
+Irine Welsh                                                      18.99                                                                                                                                  
+Konshun Takami                                                      18                                                                                                                                  
+=== 6 - Most valuable Music product by artist ===
+
+ARTIST                                             MAX(PRICE)                                                                                                                                           
+-------------------------------------------------- ----------                                                                                                                                           
+The Police                                              40.05                                                                                                                                           
+Exile                                                   24.42                                                                                                                                           
+808 State                                               59.66                                                                                                                                           
+Alec Holowka                                            99.99                                                                                                                                           
+John Oates                                              16.01                                                                                                                                           
+Kevin Godley                                              2.2                                                                                                                                           
+Jamiroquai                                              35.45                                                                                                                                           
+Tally Hall                                               50.1                                                                                                                                           
+A Perfect Circle                                        17.05                                                                                                                                           
+50 Cent                                                  9.02                                                                                                                                           
+Shigeru Suzuki                                          55.88                                                                                                                                           
+Black Sabbath                                           20.05                                                                                                                                           
+Machine                                                  67.7                                                                                                                                           
+Arctic Monkeys                                          70.45                                                                                                                                           
+Amy Winehouse                                           33.05                                                                                                                                           
+Daryl Hall                                              16.01                                                                                                                                           
+Dom and Roland                                          24.42                                                                                                                                           
+The Weeknd                                              10.03                                                                                                                                           
+Eminem                                                    6.8                                                                                                                                           
+Lol Creme                                                 2.2                                                                                                                                           
+The Turtles                                             46.77                                                                                                                                           
+Tatsuro Yamashita                                       55.88                                                                                                                                           
+Timecode                                                24.42                                                                                                                                           
+Berliner Philharmoniker                                  30.5                                                                                                                                           
+Haruomi Hosono                                          55.88                                                                                                                                           
+=== 7 - Most valuable game product by format ===
+
+FORMAT                                           MAX(PRICE)                                                                                                                                             
+------------------------------------------------ ----------                                                                                                                                             
+(VG) Meta Quest Download Code                         14.99                                                                                                                                             
+Playing Cards                                         19.99                                                                                                                                             
+(VG) Nintendo DS Cartridge + Manual                   20.99                                                                                                                                             
+(VG) PC Disc + Manual                                 29.99                                                                                                                                             
+(VG) Xbox 360 Disc + Manual                           12.99                                                                                                                                             
+(VG) Dreamcast Disc + Manual                          17.99                                                                                                                                             
+Board Game                                            99.99                                                                                                                                             
+(VG) PS2 Disc + Manual                                21.22                                                                                                                                             
+Building Blocks                                       39.99                                                                                                                                             
+=== 8 - Sum of fictional books sales data by type ===
+
+FICTION_TYPE              SUM(BOOK_SALES_DAT)                                                                                                                                                           
+------------------------- -------------------                                                                                                                                                           
+Graphic Novel                          349.86                                                                                                                                                           
+Anthology                                  51                                                                                                                                                           
+Novel                                 1528.45                                                                                                                                                           
+=== 9 - Members ranked by number of drinks ordered ===
+
+MEM_LNAME                  COUNT(*)                                                                                                                                                                     
+------------------------ ----------                                                                                                                                                                     
+Kim                               4                                                                                                                                                                     
+Patel                             2                                                                                                                                                                     
+Singh                             2                                                                                                                                                                     
+Tran                              2                                                                                                                                                                     
+Hall                              2                                                                                                                                                                     
+Rodriguez                         1                                                                                                                                                                     
+Martin                            1                                                                                                                                                                     
+Wong                              1                                                                                                                                                                     
+=== 10 - Employees with below average wages ===
+
+EMPL_LNAME                 PAY_HOUR                                                                                                                                                                     
+------------------------ ----------                                                                                                                                                                     
+Patel                          15.5                                                                                                                                                                     
+Rodriguez                      19.5                                                                                                                                                                     
+Kim                            16.5                                                                                                                                                                     
+Chen                           15.5                                                                                                                                                                     
+Khan                           18.5                                                                                                                                                                     
+Martin                           18                                                                                                                                                                     
+Tran                           16.5                                                                                                                                                                     
+Wong                           18.5                                                                                                                                                                     
+Hall                           16.5                                                                                                                                                                     
+Garcia                         16.5                                                                                                                                                                     
+Jackson                        19.5                                                                                                                                                                     
+=== 11 - Members that never ordered a drink ===
+
+MEM_LNAME                MEM_FNAME                                                                                                                                                                      
+------------------------ ------------------------                                                                                                                                                       
+Chen                     Lucas                                                                                                                                                                          
+Garcia                   Maya                                                                                                                                                                           
+Jackson                  Ava                                                                                                                                                                            
+Khan                     Ruby                                                                                                                                                                           
+Lee                      Ethan                                                                                                                                                                          
+Nguyen                   Zara                                                                                                                                                                           
+Patel                    Caleb                                                                                                                                                                          
+=== 12 - Member with Largest Transaction ===
+
+MEM_LNAME                TOTAL_VOLUME PURCHASE_                                                                                                                                                         
+------------------------ ------------ ---------                                                                                                                                                         
+Rodriguez                         666 15-JAN-23                                                                                                                                                         
+=== 13 - Drinks that were ordered large ===
+
+DRINK_NAME           DRINK_PRICE D                                                                                                                                                                      
+-------------------- ----------- -                                                                                                                                                                      
+Flat White                  3.79 L                                                                                                                                                                      
+Iced Coffee                 3.99 L                                                                                                                                                                      
+Iced Tea                    2.99 L                                                                                                                                                                      
+Latte                       4.29 L                                                                                                                                                                      
+=== 14 - Members that joined before 2000 ===
+
+Member Name                                       JOIN_DATE                                                                                                                                             
+------------------------------------------------- ---------                                                                                                                                             
+Maya Garcia                                       25-JUN-83                                                                                                                                             
+Kai Wong                                          08-JUL-85                                                                                                                                             
+Ethan Lee                                         14-OCT-88                                                                                                                                             
+Lila Tran                                         15-MAY-90                                                                                                                                             
+Atticus Singh                                     04-MAR-91                                                                                                                                             
+Caleb Patel                                       10-APR-92                                                                                                                                             
+Ruby Khan                                         12-FEB-94                                                                                                                                             
+Sofia Patel                                       22-MAR-95                                                                                                                                             
+Jaxon Martin                                      17-DEC-96                                                                                                                                             
+Julian Kim                                        31-JAN-97                                                                                                                                             
+Zara Nguyen                                       06-JAN-98                                                                                                                                             
+Ava Jackson                                       18-NOV-99                                                                                                                                             
+=== 15 - Full-time employees ===
+
+EMPL_LNAME               Hourly Pay                                                                                                                                                                     
+------------------------ ----------                                                                                                                                                                     
+Vasquez                        25.5                                                                                                                                                                     
+Lee                            26.5                                                                                                                                                                     
+Rodriguez                      19.5                                                                                                                                                                     
+Khan                           18.5                                                                                                                                                                     
+Martin                           18                                                                                                                                                                     
+Singh                            50                                                                                                                                                                     
+Jackson                        19.5                                                                                                                                                                     
+=== 16 - Most expensive drink ===
+
+DRINK_NAME           DRINK_PRICE D                                                                                                                                                                      
+-------------------- ----------- -                                                                                                                                                                      
+Mocha                       4.59 M                                                                                                                                                                      
+=== 17 - Members without any ongoing booth rentals ===
+=== 18 - Total Value of Drinks by Type ===
+
+DRINK_TYPE           SUM(DRINK_PRICE)                                                                                                                                                                   
+-------------------- ----------------                                                                                                                                                                   
+Coffee                          32.61                                                                                                                                                                   
+Tea                             15.75                                                                                                                                                                   
+Other                            3.29                                                                                                                                                                   
+===  19 - Total Sale Volume by Employee ===
+
+EMPLOYEE_I SUM(TOTAL_VOLUME)                                                                                                                                                                            
+---------- -----------------                                                                                                                                                                            
+1648444241               666                                                                                                                                                                            
+1638343231               555                                                                                                                                                                            
+1749454341               550                                                                                                                                                                            
+1698949291            420.69                                                                                                                                                                            
+1628242221               412                                                                                                                                                                            
+1668646261               300                                                                                                                                                                            
+1678747271               212                                                                                                                                                                            
+1688848281               212                                                                                                                                                                            
+1739353331               200                                                                                                                                                                            
+1709050301               147                                                                                                                                                                            
+1658545251               123                                                                                                                                                                            
+1729252321               100                                                                                                                                                                            
+=== 20 - Total Sale Volume by Month ===
+
+TO_CHAR(TO_DATE(PURCHASE_DATE),'MONT SUM(TOTAL_VOLUME)                                                                                                                                                  
+------------------------------------ -----------------                                                                                                                                                  
+January                                           1266                                                                                                                                                  
+October                                            967                                                                                                                                                  
+December                                        567.69                                                                                                                                                  
+November                                           550                                                                                                                                                  
+June                                               212                                                                                                                                                  
+May                                                212                                                                                                                                                  
+February                                           123                                                                                                                                                  
+=== 21 - Latest Edition of Reference books ===
+
+BOOK_NAME                                                                                           MAX(                                                                                                
+--------------------------------------------------------------------------------------------------- ----                                                                                                
+The Philosophy Book                                                                                 2023                                                                                                
+Essential World Atlas                                                                               2019                                                                                                
+Introduction to Statistical Learning                                                                2013                                                                                                
+International Studies : An Interdisciplinary Approach                                               2017                                                                                                
+Electronics from the Gound Up                                                                       2014                                                                                                
+The Elusive Eden                                                                                    2019                                                                                                
+CIA World Factbook                                                                                  2024                                                                                                
+Ethical Theory                                                                                      2012                                                                                                
+Introduction to the Theory of Computation                                                           2012                                                                                                
+Critical Thinking : The Basics                                                                      2023                                                                                                
+Introduction to Algorithms                                                                          2022                                                                                                
+Vector Calculus                                                                                     2011                                                                                                
+=== 22 - Value of Musical Products by genre ===
+
+GENRE                    SUM(PRICE)                                                                                                                                                                     
+------------------------ ----------                                                                                                                                                                     
+Classic Rock                    2.2                                                                                                                                                                     
+Hip-hop                         6.8                                                                                                                                                                     
+Gangsta Rap                    9.02                                                                                                                                                                     
+Pop                           10.03                                                                                                                                                                     
+Gothic                        17.05                                                                                                                                                                     
+Heavy Metal                   20.05                                                                                                                                                                     
+Drum and Bass                 24.42                                                                                                                                                                     
+Classical                      30.5                                                                                                                                                                     
+Rhythm and Blues              33.05                                                                                                                                                                     
+Acid Jazz                     35.45                                                                                                                                                                     
+Surf Rock                     46.77                                                                                                                                                                     
+Independent Pop                50.1                                                                                                                                                                     
+City Pop                      55.88                                                                                                                                                                     
+New Wave                      56.06                                                                                                                                                                     
+House                         59.66                                                                                                                                                                     
+Disco                          67.7                                                                                                                                                                     
+Alternative Rock              70.45                                                                                                                                                                     
+Soundtrack                   199.98                                                                                                                                                                     
+=== 23 - Members not involved in any stated events ===
+=== 24 - Overall of Job Categories ===
+
+TITLE                MAX(PAY_HOUR) AVG(PAY_HOUR)                                                                                                                                                        
+-------------------- ------------- -------------                                                                                                                                                        
+Fiender                         69            69                                                                                                                                                        
+Assistant Manager             19.5          19.5                                                                                                                                                        
+Owner                           50            50                                                                                                                                                        
+Barista                       19.5          19.5                                                                                                                                                        
+Barista-Cashier               16.5          16.5                                                                                                                                                        
+Book Reviewer                 15.5          15.5                                                                                                                                                        
+Janitor                         18            18                                                                                                                                                        
+Barista Manager               16.5          16.5                                                                                                                                                        
+Cashier                       15.5          15.5                                                                                                                                                        
+Social Media Leader           16.5          16.5                                                                                                                                                        
+Booksorter                    18.5          18.5                                                                                                                                                        
+Promoter                      16.5          16.5                                                                                                                                                        
+Researcher                    18.5          18.5                                                                                                                                                        
+Manager                       26.5            26                                                                                                                                                        

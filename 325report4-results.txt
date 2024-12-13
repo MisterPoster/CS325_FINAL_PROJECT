@@ -1,0 +1,154 @@
+
+Tue Dec 10                                                                                                                                                                                     page    1
+                                                                                 Status of Membership Drink Consumption
+
+Membership           Last                 First                Drink                  Drink                                                                                                             
+ID                   Name                 Name                 Name                   Price                                                                                                             
+-------------------- -------------------- -------------------- -------------------- -------                                                                                                             
+kimTL6CZmSsN5TFdeS4V Kim                  Julian               Mocha                  $4.59                                                                                                             
+                     Kim                  Julian               Cappuccino             $3.49                                                                                                             
+                     Kim                  Julian               Flat White             $3.79                                                                                                             
+                     Kim                  Julian               Affogato               $3.99                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.97                                                                                                             
+count                                                                                     4                                                                                                             
+sum                                                                                  $15.86                                                                                                             
+                                                                                                                                                                                                        
+tran6YYWcNPk6bp8sVaa Tran                 Lila                 Latte                  $4.29                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $4.29                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $4.29                                                                                                             
+                                                                                                                                                                                                        
+pateQsRq8Vfj7mWcHnX  Patel                Sofia                Iced Tea               $2.99                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $2.99                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $2.99                                                                                                             
+                                                                                                                                                                                                        
+wongxtA4xbdfbxLWkBQj Wong                 Kai                  Americano              $2.99                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $2.99                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $2.99                                                                                                             
+                                                                                                                                                                                                        
+martinGyzPfzVUDbgyAG Martin               Jaxon                Latte                  $4.29                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $4.29                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $4.29                                                                                                             
+                                                                                                                                                                                                        
+singhw7kfLnFKKXWy5pU Singh                Atticus              Latte                  $4.29                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $4.29                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $4.29                                                                                                             
+                                                                                                                                                                                                        
+leliaF8enGjWLSEemsYd Rodriguez            Lelia                Cappuccino             $3.49                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.49                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $3.49                                                                                                             
+                                                                                                                                                                                                        
+pateQsRq8Vfj7mWcHnX  Patel                Sofia                Cappuccino             $3.49                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.49                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $3.49                                                                                                             
+                                                                                                                                                                                                        
+hallBGfwNqc5Tqg5TqMm Hall                 Piper                Americano              $2.99                                                                                                             
+                     Hall                 Piper                Cappuccino             $3.49                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.24                                                                                                             
+count                                                                                     2                                                                                                             
+sum                                                                                   $6.48                                                                                                             
+                                                                                                                                                                                                        
+singhw7kfLnFKKXWy5pU Singh                Atticus              Mocha                  $4.59                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $4.59                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $4.59                                                                                                             
+                                                                                                                                                                                                        
+tran6YYWcNPk6bp8sVaa Tran                 Lila                 Hot Chocolate          $3.29                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.29                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $3.29                                                                                                             
+                                                                                                                                                                                                        
+
+Tue Dec 10                                                                                                                                                                                     page    1
+                                                                                 Status of Membership Drink Consumption
+
+Membership           Last                 First                Drink                  Drink                                                                                                             
+ID                   Name                 Name                 Name                   Price                                                                                                             
+-------------------- -------------------- -------------------- -------------------- -------                                                                                                             
+kimTL6CZmSsN5TFdeS4V Kim                  Julian               Mocha                  $4.59                                                                                                             
+                     Kim                  Julian               Cappuccino             $3.49                                                                                                             
+                     Kim                  Julian               Flat White             $3.79                                                                                                             
+                     Kim                  Julian               Affogato               $3.99                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.97                                                                                                             
+count                                                                                     4                                                                                                             
+sum                                                                                  $15.86                                                                                                             
+                                                                                                                                                                                                        
+tran6YYWcNPk6bp8sVaa Tran                 Lila                 Latte                  $4.29                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $4.29                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $4.29                                                                                                             
+                                                                                                                                                                                                        
+pateQsRq8Vfj7mWcHnX  Patel                Sofia                Iced Tea               $2.99                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $2.99                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $2.99                                                                                                             
+                                                                                                                                                                                                        
+wongxtA4xbdfbxLWkBQj Wong                 Kai                  Americano              $2.99                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $2.99                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $2.99                                                                                                             
+                                                                                                                                                                                                        
+martinGyzPfzVUDbgyAG Martin               Jaxon                Latte                  $4.29                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $4.29                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $4.29                                                                                                             
+                                                                                                                                                                                                        
+singhw7kfLnFKKXWy5pU Singh                Atticus              Latte                  $4.29                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $4.29                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $4.29                                                                                                             
+                                                                                                                                                                                                        
+leliaF8enGjWLSEemsYd Rodriguez            Lelia                Cappuccino             $3.49                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.49                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $3.49                                                                                                             
+                                                                                                                                                                                                        
+pateQsRq8Vfj7mWcHnX  Patel                Sofia                Cappuccino             $3.49                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.49                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $3.49                                                                                                             
+                                                                                                                                                                                                        
+hallBGfwNqc5Tqg5TqMm Hall                 Piper                Americano              $2.99                                                                                                             
+                     Hall                 Piper                Cappuccino             $3.49                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.24                                                                                                             
+count                                                                                     2                                                                                                             
+sum                                                                                   $6.48                                                                                                             
+                                                                                                                                                                                                        
+singhw7kfLnFKKXWy5pU Singh                Atticus              Mocha                  $4.59                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $4.59                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $4.59                                                                                                             
+                                                                                                                                                                                                        
+tran6YYWcNPk6bp8sVaa Tran                 Lila                 Hot Chocolate          $3.29                                                                                                             
+********************                                                                -------                                                                                                             
+avg                                                                                   $3.29                                                                                                             
+count                                                                                     1                                                                                                             
+sum                                                                                   $3.29                                                                                                             
+                                                                                                                                                                                                        

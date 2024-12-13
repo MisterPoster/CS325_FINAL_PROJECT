@@ -1,0 +1,30 @@
+Tue Dec 10                                                                                                                                                                                     page    1
+                                                                               Report of Above-Average Priced Video Games
+
+GAME_ID      Name             PRICE PUBLISHER    Disc       GENRE        PLAYERS_MAX    AGE_MIN        QTY                                                                                              
+------------ ------------ --------- ------------ ---------- ------------ ----------- ---------- ----------                                                                                              
+10204081632  Sid Meiers      $29.99 2K           (VG) PC    Strategy              16         12          2                                                                                              
+             Civilization                        Disc +                                                                                                                                                 
+             V                                   Manual                                                                                                                                                 
+                                                                                                                                                                                                        
+10214182642  Manhunt         $21.22 Rockstar Gam (VG) PS2   Action                 1         12          2                                                                                              
+                                    es           Disc +                                                                                                                                                 
+                                                 Manual                                                                                                                                                 
+                                                                                                                                                                                                        
+10335394762  Jet Set         $17.99 SEGA         (VG)       Action                 1         12          2                                                                                              
+             Radio                               Dreamcast                                                                                                                                              
+                                                 Disc +                                                                                                                                                 
+                                                 Manual                                                                                                                                                 
+                                                                                                                                                                                                        
+10345495772  Brain Age       $20.99 Nintendo     (VG)       Education              1         10          4                                                                                              
+                                                 Nintendo                                                                                                                                               
+                                                 DS                                                                                                                                                     
+                                                 Cartridge                                                                                                                                              
+                                                 + Manual                                                                                                                                               
+                                                                                                                                                                                                        
+
+
+
+
+
+                                                                               Report of Above-Average Priced Video Games
